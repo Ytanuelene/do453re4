@@ -1,0 +1,26 @@
+{
+  "name": "Tom Bryan",
+  "age": 19,
+  "address": {
+    "street": "Fojfi Circle",
+    "city": "Amhahte",
+    "state": "MD",
+    "zip": "57542"
+  },
+  "contact": {
+    "phone": "(861) 465-6826",
+    "servicePhone": "800982927"
+  },
+  "birthday": "2004-08-23T21:36:19.035Z",
+  "ip": "168.178.28.27",
+  "foo": "bar",
+  "profile": {
+    "about": "Zuzi ledo vidozag roh ewumuzmal fedumgo dokakib kifvofnu oz semwasum tinif cumdum ba ban ju demela. Bonvidak cec uf fawel uhsu anrekha pengo savokfi va petawohej kojavecin ej. Apsi cuw othup gur aguzuf epasafa vo rada tihengin lokgubah betfeweba toce faduju mahdioj car nuvuw fotlev pera.",
+    "bio": "Kepitfer esamanjuz mop ze kihfu ik wa zujvicub gocisugi toav mov ripik. Luh ju udevo lugsimaf tusiize wobvo menoha nej nujwuju hepus correw kegne. Je komatano kesouco orucema ro his lajirhi gaaku ze ejosar ewo leemoobe guj. Fecle totedu dutu noareudu hular rofbi arujipo heponwaz higamrit ise fiv ataevanut ehumudu fajo lober ogfuref."
+  },
+  "apiKey": "1778cdaa28a11b229e2352aa54c74301c4f191abeaf39caac6a3354c9fe05eb0",
+  "currency": {
+    "code": "SVC",
+    "name": "El Salvador Colon"
+  }
+}
