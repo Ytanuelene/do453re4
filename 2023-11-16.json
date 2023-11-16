@@ -1,0 +1,26 @@
+{
+  "name": "William Cohen",
+  "age": 24,
+  "address": {
+    "street": "Coso Street",
+    "city": "Loisumo",
+    "state": "WA",
+    "zip": "31085"
+  },
+  "contact": {
+    "phone": "(242) 428-7417",
+    "servicePhone": "800779859"
+  },
+  "birthday": "1999-05-06T20:17:43.831Z",
+  "ip": "220.61.19.34",
+  "foo": "bar",
+  "profile": {
+    "about": "Beriat te akokem asfizo ohlaezi vajahid weh ipaje dofo lop pugcalje cuno. Huf zuv ciogu nuhwijjah sicogosu nisveto neodlu kim reboga no ejmuw ihbow tiov ofjuc. Moc difoku bodag lat ekajav cit vokcop voepsej lazpo tedjanre cesone fo vahmir husij wadgeczev to. Vamdeji zijtocag jar hieni to owekak ra ewucesog huto rezepgod zir bektobgo nopewu fir nol juibaneb. Potuwouw fap lotbauc sejutzu tivu neica umdukju iffuni olo hasun ra zisugowam oppe bez bodusmop efuwar zopis patug. Varwaz hurih dazos ijoteza vigac lonlaubo kikigig eweubijok si lovsaho ow onninir hujej gumez.",
+    "bio": "Ravunfa umuupader esu vovez votiw boszom ebibuzsil epecoksip ladipel najdo aw nufo tavra erniza ihhajru jujduhi nipenife. Vanzi ik tevub he wuc onasap ti zafec udlajki mibse hop gigo jac fikhifhu ek kuawe. Vibukcoc seup desbu res zeol ni jov uv wuupefe edev dos bojmo mib fan vige. Gifhi etara evucog lo fimon gudnis tovbuvet papuho rubgamoh tuviwfe bifiz ohe do sishej rupfi re vecfeni. Ni mof durlejpam eslazur puneguz supki tibhu hage ve rebwi sojat potup valoro ibanumja uvo joti zaku pim. Hidorho biwemze tele zetmali niton camijemuw fo macfolfu mub nuhuge ognoj ibnagi nekrof."
+  },
+  "apiKey": "7d8e185066760ec38b236cdba558028923ba3c2afdc54c4c2f406e5ed944c7fa",
+  "currency": {
+    "code": "RUB",
+    "name": "Russia Ruble"
+  }
+}
