@@ -1,0 +1,26 @@
+{
+  "name": "Wesley Wilkins",
+  "age": 35,
+  "address": {
+    "street": "Vutso Plaza",
+    "city": "Odeecta",
+    "state": "CT",
+    "zip": "31469"
+  },
+  "contact": {
+    "phone": "(384) 922-3397",
+    "servicePhone": "800522386"
+  },
+  "birthday": "1977-07-18T21:40:21.432Z",
+  "ip": "192.191.63.48",
+  "foo": "bar",
+  "profile": {
+    "about": "Veduwha vu agzazheh zeofa la bez uwlu garjubloh hajefi ve ka zamwos kowhonol adpo po nop. Eferufmak bip tesdof kitinu ruku fav kofpuol lerwew ric amegah tobsu agozawpi dejsi. Lerro pacil nafo fapaw le lu ga cel neohje dovi mo gis nuje bapab jokaf jejmijde.",
+    "bio": "Totwoh do lej majondo duzabno lagep regofi hin mel kezmew rav zopvigfur ajacos elu ji zihwac ukenar. Zodcecor uvoker le nahadouv kavovuut kofo uve gup rasos imopew umeza tozuctuw lalaja ujaet fe lojdi kit. Tedvafob okuih cat me nofus binlakji vog bakvam mehna uj tew zekenzu."
+  },
+  "apiKey": "f5c60288d9ab100987c06475bda015a9e357376ab2e5710228ba3e843b4bc8af",
+  "currency": {
+    "code": "ISK",
+    "name": "Iceland Krona"
+  }
+}
