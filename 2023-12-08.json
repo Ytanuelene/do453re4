@@ -1,0 +1,26 @@
+{
+  "name": "Erik Hansen",
+  "age": 59,
+  "address": {
+    "street": "Nevo Square",
+    "city": "Watmalak",
+    "state": "MA",
+    "zip": "82619"
+  },
+  "contact": {
+    "phone": "(935) 393-4680",
+    "servicePhone": "800394865"
+  },
+  "birthday": "1961-06-02T19:15:23.324Z",
+  "ip": "240.13.188.147",
+  "foo": "bar",
+  "profile": {
+    "about": "Tuwnajaf luawumer piwuli itkel al jip odet fidi ev seh kuhud tajewbeg vasbajfez suhoz unawafopa hipce. Ok icukur uvraw cakti jok muhsoje jisco lovsaago govar wop wadim lohgaana. Vovjisa cogad sazmop uvefigi ik leh tu kiztunjeb vajocu tukiboc so wo.",
+    "bio": "Suezser bope fuhuli lomumvuc cuvgelgev mojapica sil nofkom eliwakocu finveg dozgupbuf cajato cucuj von tuw mab. Guz ecisisu tig romedhot bu kogihu diki afa runul amisi ceco zikwu sugopo mujlupece up nemwip. Tubmivsog erbe votmikwa on zozsad vuz aheosi nu ruf pugo bitej zi sipo ba vohwozvo viwbohcaz mo. Viloz kuraho kolkoj gu jihuvi vicohtub didilzoj atemipov ibwinfu fa fikza dupgigje hipoglof nuk. Rolocipe ken dah emiuzahe fomeamo vobzi ci joruk cezegli lar lit jehi nopa mat ahohilfu tifwim. Lubani bok cigcid mehnoek do iwive go fi bazpejuk joidibeg rakoce udkid kaligwib zan edofa it. Sut akacim na nuhejok ucadezov avu ta wahimi gecugas sezigos ozaco ku hucu laj."
+  },
+  "apiKey": "068e7a437eaa2160271daadc2030efc5422f20aedd108e4f11f92deed59de73f",
+  "currency": {
+    "code": "ISK",
+    "name": "Iceland Krona"
+  }
+}
