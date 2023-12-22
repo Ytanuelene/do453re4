@@ -1,0 +1,26 @@
+{
+  "name": "Steve Maxwell",
+  "age": 20,
+  "address": {
+    "street": "Nipij Turnpike",
+    "city": "Mosodine",
+    "state": "AR",
+    "zip": "86112"
+  },
+  "contact": {
+    "phone": "(989) 997-9863",
+    "servicePhone": "800796557"
+  },
+  "birthday": "1970-12-29T14:17:00.468Z",
+  "ip": "136.172.110.122",
+  "foo": "bar",
+  "profile": {
+    "about": "Ubo tiolka ron lewaice medbi maghi vewetisi odi adeik jolfeb vo tohfa rucsus. Uru zaobaok dedtis vefta cozguraf vug gaf am avdomoj wi puwpo pujzev ojpaviz patota pipwiwu rosodip togzobuz. Jer mafhu huphijbi se isiteeb pidid muvgopa zaz pizeze sik ronzanbuj isibat.",
+    "bio": "Ge udood pi decac edu loj ke mepag idro tuw cogpoufo ujega. Fov gololu rututzi ra iku ofuso jitnam ucsov bom de nerok hi. Decloc fo ov gajuv uzteg al afodeis kebruven afi suhcaf tov jabezubuv rim tafnesde ora ebusip. Sol bij repi kugak lazcosvef ugu saba zid cospatpo ovouvulu ci jadvig uljok ewora doresik zi gutvidhag umzecem."
+  },
+  "apiKey": "f7f41cb412923ee0f96c042a02ceef5ece74ba41755786c1f43c0b85e8d4a290",
+  "currency": {
+    "code": "AZN",
+    "name": "Azerbaijan New Manat"
+  }
+}
