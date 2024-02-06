@@ -1,0 +1,26 @@
+{
+  "name": "Christian Stone",
+  "age": 65,
+  "address": {
+    "street": "Sechu Plaza",
+    "city": "Gobrimwo",
+    "state": "LA",
+    "zip": "90905"
+  },
+  "contact": {
+    "phone": "(602) 812-5899",
+    "servicePhone": "800741348"
+  },
+  "birthday": "1998-04-21T04:45:23.860Z",
+  "ip": "120.214.189.227",
+  "foo": "bar",
+  "profile": {
+    "about": "Anopoowi afcus ejhaki pokli eponecnuz sefenvu cah fateh wadjo koddul bo juwnek ah cih muz kokpiven waata. Ilfo goin dujsej efa em nevsezem migtutvi wi uhwuw lal zaovuoh olowabzu jetge. Fere kilah kotsu tobwuzka dun barez ve banit rabu ishuhrat kuzuzo utvub. Tomo hacde me kogilus pasru ip kuapile coc piges samawman go ze celwa bimdu loc uwdakge el.",
+    "bio": "Todobajoz tu cas du pe fogiwmam keege vulewzi vu zujucu dijcet tasma jorkun cu. Huwowga le wij foal gevwuwted novit kulsojaj nohtelda kozuh kahanop vetubit digeeh me ihtajaj daga mizjijed isucizto hoakozo. Sophehlar amufe be upti wa rasum ceesueg iwla vubge cuzudro iwcub bud hawa. Peval daffivev jafe le ja ti dejelco zaded bu bolak ho ogwulu tu vohva saro. Sore ho obnu tinil suna ihmenja uhbivdi esoha duz gewud madug ve. Ake gozizitow ekerovit idroes ikuavgiz wir setbadan edoucako joziepe zihojuzow lazohgo ta ha ad kas daano lomjeuk tagba."
+  },
+  "apiKey": "2dd316e58dfbc98214f4d64ce1f7c60ec15ddddd796252e6dabc24592eddc487",
+  "currency": {
+    "code": "PKR",
+    "name": "Pakistan Rupee"
+  }
+}
