@@ -1,0 +1,26 @@
+{
+  "name": "Alice Thornton",
+  "age": 64,
+  "address": {
+    "street": "Upepu Boulevard",
+    "city": "Oddefmah",
+    "state": "CA",
+    "zip": "01474"
+  },
+  "contact": {
+    "phone": "(718) 756-7606",
+    "servicePhone": "800337494"
+  },
+  "birthday": "1997-12-03T12:17:56.531Z",
+  "ip": "94.176.8.4",
+  "foo": "bar",
+  "profile": {
+    "about": "Kig zupbihboj viorwes noz sa ta uziizaevi deti vel cofaz lolum warejvap. Dab jeg akep er ki hod fam ku duhubkap uf divojaci lijilu gupgummo zowovmu ju voiw. Vo jiuca us amehi lil bucto gim weled wutafisi ufa leulo siz. Opier ehguc nempifo afto oc abvi jo supag kocatona baj wa ega gini hul do jiij tuug.",
+    "bio": "Div tapnuuz acviwvok ru cumurri vevenozo cegsa tef hetalwe opatu siknomuf ponka. Mouz kiczok zurdica netvov ibole hid onu pupif vo virusvuc haw fek nijbef les. Kocna ezutu rawipfe se duhaluzo liwtiv ru uhihe lo itaroz sa kucfe migopzo saziko cusemej ma. Guidehub cuizso sarwepos ni vaagehug gez log su javgu domfot rul zaca refeuf."
+  },
+  "apiKey": "437141e342cc4b43e6c2d11a6cf6004e759ee8ad43d2e70d1406e2ed5590a898",
+  "currency": {
+    "code": "UAH",
+    "name": "Ukraine Hryvnia"
+  }
+}
