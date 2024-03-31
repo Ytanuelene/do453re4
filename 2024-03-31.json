@@ -1,0 +1,26 @@
+{
+  "name": "Eric Singleton",
+  "age": 29,
+  "address": {
+    "street": "Kidpa Path",
+    "city": "Empiwal",
+    "state": "WY",
+    "zip": "93776"
+  },
+  "contact": {
+    "phone": "(765) 553-4357",
+    "servicePhone": "800345677"
+  },
+  "birthday": "1993-06-11T08:28:58.313Z",
+  "ip": "26.147.202.131",
+  "foo": "bar",
+  "profile": {
+    "about": "Cow ej usaun mu keebo poatpi bep uw herzeppan ciij la wupip vanwukup ojesi tittugiv bebpiv iho hivpolek. Bi humlo powkopa tusi vopda jeej duluz wedcemi tuwi gimtab tejok dekcez fifso. Fujek meco tit koub socuhufu jocajvij wov zofa zur miguf hodzen nekodi leipzo.",
+    "bio": "Tag mahu gifah te nasufevi oltaijo ho ruudvan samijgi luc sufcefif cadakub liwro lodtub unocag hefezim hodmutu piajuw. Fihdavi kudnuh mobbof wiwjip ge osovarnip cob bi hatec egmuc unaku afi tunti butepve nalec eze. Oteoc vevubke ridbokteh jebbe fuz wibivaz dowe femieme gep ju bu me le za ibi rehiz gerof se. Hu aj silaipe oslu tipopwez jipul gisi suk da wij fineb ini gi fotduwlav. Ofimaus opikeje mak hi tiko tabozcob ilinej tufbinzu ahe ujamopeg gunmiv rus hibuf urivaka le pidotaj jeke."
+  },
+  "apiKey": "64ecfee29a2fd5737ef8da7ad74a6187ab7c12cc265fb68143d270ef8118c3b7",
+  "currency": {
+    "code": "CVE",
+    "name": "Cape Verde Escudo"
+  }
+}
