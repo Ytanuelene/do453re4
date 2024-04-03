@@ -1,0 +1,26 @@
+{
+  "name": "Cornelia Santiago",
+  "age": 51,
+  "address": {
+    "street": "Hesav Path",
+    "city": "Nilacipu",
+    "state": "VT",
+    "zip": "63228"
+  },
+  "contact": {
+    "phone": "(345) 259-4173",
+    "servicePhone": "800819252"
+  },
+  "birthday": "1999-11-05T17:48:32.221Z",
+  "ip": "155.108.60.53",
+  "foo": "bar",
+  "profile": {
+    "about": "Lahiravi duwlaj taduci ageidezoh vaace low lit boj je tagarlup unacac sirevrip zavakhi. Ulvojun zo wavvac noufso lawosis pikanoj lon fo piiruso iratikte huzhaj jicew. Ed sej kah evgepu azitta omtaz tololfu comdawuh nohenac apzegi vewpabi biv bibepwow segfukep ohu.",
+    "bio": "Wure hobfi irosogav susudha gozof te ipiiworus vabub zi ba mamo sewwuw riwvace salmu. Mi bi vimku vifuic ralukus fuede kejime deopi sot val melacfu hesesbaj debeli. Anroug su biepiut uz izracu tiwlek mo fa po itasu lijohzun kaud ri meduweza piori ugomuf ofouleta zus. Gi foved timjaki wulu jacuzru avvob vikonu bu fejdavid felokde ije tijka ewpabig tukrebwe nozfak ow ocupos. Casup tabal uzvonzis fuwgem tozte paleca beilupa gafudu torzof nifeb posboklik suc ca lubhazov mesrev. Fe hu nincavu goj fu jofusuzip kaewoce kopkecob ut duma baebfis pijsufkep nip."
+  },
+  "apiKey": "511f7a85d4b1b10f1d183c39587af0260063f523d37c4f2d996a25089492c958",
+  "currency": {
+    "code": "ANG",
+    "name": "Netherlands Antilles Guilder"
+  }
+}
