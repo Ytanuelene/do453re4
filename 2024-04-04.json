@@ -1,0 +1,26 @@
+{
+  "name": "Eric West",
+  "age": 33,
+  "address": {
+    "street": "Cigriz Court",
+    "city": "Bastieha",
+    "state": "NC",
+    "zip": "57829"
+  },
+  "contact": {
+    "phone": "(660) 633-8880",
+    "servicePhone": "800442673"
+  },
+  "birthday": "1976-06-22T06:12:46.816Z",
+  "ip": "190.212.45.239",
+  "foo": "bar",
+  "profile": {
+    "about": "Liggivto renem opa wakka ojevuc povfoc ded savir ja gev mowinlih wop vekacros huere. Giesa petle da tiso luufjow moclug wioc guribaciw bi uv silkafu aroujlef anetega nunmok si. Luidi mow gihfa realuak mojigeas we gagtehuj odine olapeibu arwubuwa howogen boc usu su. Tihseknuk azokugag obiivo bal duenecod asacuwod gazzolil pe gena baf hur woade eki puloji oniwuw hepcu we koehonu.",
+    "bio": "Wafmawomo it dohnu wiufusu algat kubdum punalsi orepude mapijo hom re iliimpo iluwanos idu cugehos ut. Nozuge viflim zuiju kero im uc fizekju afu befkakut notboeg zi kerneemo. Mactukro cohusga cemvifis gif bizrulres ebiligdit cihejev rewdukri gubpivfoc pow gewulkop ho pelodnin locjaeso teco olezo sov tomupog."
+  },
+  "apiKey": "cb03db24f8280fad8ef9659fe0473a0ba25827b1f757af258e056e67e1227623",
+  "currency": {
+    "code": "LRD",
+    "name": "Liberia Dollar"
+  }
+}
