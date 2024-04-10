@@ -1,0 +1,26 @@
+{
+  "name": "Jacob Love",
+  "age": 22,
+  "address": {
+    "street": "Repbi Place",
+    "city": "Ciwura",
+    "state": "NH",
+    "zip": "38737"
+  },
+  "contact": {
+    "phone": "(809) 843-2029",
+    "servicePhone": "800417385"
+  },
+  "birthday": "1999-02-02T06:59:49.250Z",
+  "ip": "111.126.226.36",
+  "foo": "bar",
+  "profile": {
+    "about": "Inizuhel ara ze vuneki lefzikdu bicorum zurpolug zejtij tob siwza weokik opu geipaot danogero feluf uvfe gifumu. Jutegak dip nu witdamjek siuh cupmak gamec vohzenoj mokpuic tof biw eju domivipil bol fo midovog nejzav zil. Su huf de urwucuw jutsuso je tugsi offug orvatoz pa ez matoskoc vedozvok. Fuji butno wa na zo si ej geumecob far ciflofmuc owpu bafrougu dop etioto. Uvito hafi gapel sa ce fiwozis wir wuricoga niwopo to pazsula ge ago bim ba zefti. Uheb tidobuj oju niw icipzig eggi foumda pi bo ne decuclik fikun fomrate foldec tozgecma nul jeg ema. Sa up asvibu ju jipof sihke ikli efudis wasoziwo hize javvoz kagatupo cu fudzes san viwigaj sosna.",
+    "bio": "Suvu liz suhotre alfi cum les openido feas majmo lovteuli puvcov ludcitna rurruudo sa vo ado be. Pe zav ku hil rebinin tu puz gu is kopaj rij pu kuzmuvi peb ruk bespob uvzaiga rujpoac. Bazehe ihujos rieju babvuf akoji oke mokagjoc todovuk pe rijcam hiege gab nubbewew mic uf."
+  },
+  "apiKey": "230a84cf55aaa67f97bba902d2b4709627ef1bc7b8f1c0ae7e6a50d0351e090b",
+  "currency": {
+    "code": "LSL",
+    "name": "Lesotho Loti"
+  }
+}
