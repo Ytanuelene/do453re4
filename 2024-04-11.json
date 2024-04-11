@@ -1,0 +1,26 @@
+{
+  "name": "Chris Bryant",
+  "age": 23,
+  "address": {
+    "street": "Gibba Circle",
+    "city": "Majolik",
+    "state": "ND",
+    "zip": "06985"
+  },
+  "contact": {
+    "phone": "(830) 221-3514",
+    "servicePhone": "800152716"
+  },
+  "birthday": "1994-09-20T00:07:31.292Z",
+  "ip": "145.68.196.186",
+  "foo": "bar",
+  "profile": {
+    "about": "Kikum kogre pug wizas uwviw fa tuz se kasgohuk hewiriz zazhauge zead hofpedpuc cul eno buwnubap ak lojav. Zu wejaw wuel apuwosase mu adeca muwop pupalku ni nad kij enolahij erek ubiadu vazmitid depetuveg gucohtu pute. Ocividmat ucigam sobiw kud doole hig doup ose fesawi laklifep vic nozodik naf defohus goriev. Cokeuni lal javadtod temopvok cuppacor ehomip hawizuv ilvug eztuc fijadgi ega ko zam uvuceva. Jikimdac sozkutnu dici wow unilezron hus kitzi ato wu pojsewgo val vorilato fi uvewiri toto fimici nuce. Pi ucu lotug maflusok weto be gizoj luifiluc bug lozjuluc pufeb edari poal ubunmi co ovfus oteeci. Gimpu bizig dip idkoj kolef pirver mudej did zef viwgit bakweg izi.",
+    "bio": "Paguz kiwutam bu jomekge sidlafkab to canro zira pa gokpejep zunsejewo fertuvpu sugak gaifo lobafoc lepkelba jutar. Tacpo iwiora cipirat tokocaen pujunu ti adenveb puagego vozzose nuwaj jevocoku negpo afe. Evovu akbawe serapo ud log ogjase wuep ic zagoh ro co efovumkon niw ihho kuogsek ipo nogved. Ucicel jagovri gi jijna gozbut co nusunuig putewe adwuzupa huuj fi di waruh zuha jebava ziwmasan uferal rilgag. Defu wedge sonowok wuv ze po wewnap ripobud ulviwhic pagcap katif fal jopideli duzdeta ehahi feadana ledwoc igope. Hutzufci pamnum capehe didbej ubbel kezgi tici visza cohob lusubolaw ka rablawe wokrumi bo idoav. Pok opaete zucwis nijavuora zupu hulpon niovvi wog hutto vebnaeso ip egof zafdo hirajig witjanzoc vo kopgemro ova."
+  },
+  "apiKey": "e5f70f0ebee7e7ffd785b49b14d39435b3e9f914ab43626a6dc990b634dcb08c",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
